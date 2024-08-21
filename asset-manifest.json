@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mermaid-diagram/static/css/main.e6c13ad2.css",
-    "main.js": "/mermaid-diagram/static/js/main.57cffafe.js",
+    "main.js": "/mermaid-diagram/static/js/main.a300cd84.js",
     "static/js/349.0dbf690c.chunk.js": "/mermaid-diagram/static/js/349.0dbf690c.chunk.js",
     "static/js/41.055c99c7.chunk.js": "/mermaid-diagram/static/js/41.055c99c7.chunk.js",
     "static/js/403.df28c84a.chunk.js": "/mermaid-diagram/static/js/403.df28c84a.chunk.js",
@@ -36,7 +36,7 @@
     "static/js/476.c8915582.chunk.js": "/mermaid-diagram/static/js/476.c8915582.chunk.js",
     "index.html": "/mermaid-diagram/index.html",
     "main.e6c13ad2.css.map": "/mermaid-diagram/static/css/main.e6c13ad2.css.map",
-    "main.57cffafe.js.map": "/mermaid-diagram/static/js/main.57cffafe.js.map",
+    "main.a300cd84.js.map": "/mermaid-diagram/static/js/main.a300cd84.js.map",
     "349.0dbf690c.chunk.js.map": "/mermaid-diagram/static/js/349.0dbf690c.chunk.js.map",
     "41.055c99c7.chunk.js.map": "/mermaid-diagram/static/js/41.055c99c7.chunk.js.map",
     "403.df28c84a.chunk.js.map": "/mermaid-diagram/static/js/403.df28c84a.chunk.js.map",
@@ -72,6 +72,6 @@
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.57cffafe.js"
+    "static/js/main.a300cd84.js"
   ]
 }
